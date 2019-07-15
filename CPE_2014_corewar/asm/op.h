@@ -1,7 +1,7 @@
 /*
 ** op.h for 42sh in /home/dupoug_h/rendu/CPE_2014_corewar/parser
 ** 
-** Made by hugues du pouget de nadaillac
+** Made by hdpdn
 ** Login   <dupoug_h@epitech.net>
 ** 
 ** Started on  Wed Apr  2 16:06:57 2014 hugues du pouget de nadaillac
