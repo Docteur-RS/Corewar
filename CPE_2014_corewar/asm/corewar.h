@@ -5,7 +5,7 @@
 ** Login   <jamme-_c@epitech.net>
 ** 
 ** Started on  Thu Mar 27 18:06:37 2014 jamme-_c
-** Last update Sun Apr 13 23:07:59 2014 hugues du pouget de nadaillac
+** Last update Sun Apr 13 23:07:59 2014 huge moron
 */
 
 #ifndef COREWAR_H_
